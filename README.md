@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Lakhara</h1>
-<h3 align="center">4th-Year B.Tech CS Student | Full-Stack Developer | Competitive Programmer</h3>
+<h3 align="center">B.Tech CS IIIT KOTA'26 | Full-Stack Developer | Competitive Programmer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-lakhara/" target="_blank">
