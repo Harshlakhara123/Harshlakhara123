@@ -2,10 +2,10 @@
 <h3 align="center">4th-Year B.Tech CS Student | Full-Stack Developer | Competitive Programmer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh-lakhara/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_HANDLE" target="_blank">
+  <a href="https://leetcode.com/u/harshlakhara123/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
@@ -14,9 +14,9 @@
 
 **👨‍💻 About Me**
 * 🎓 4th-Year B.Tech in Computer Science at IIIT Kota.
-* 💻 Full-stack developer specializing in browser-native environments, AI-generation platforms, and scalable social applications.
-* 🧠 Passionate about Data Structures and Algorithms with 600+ solved problems across platforms.
-* 🚀 Previously: SDE Intern & DSA Mentor.
+* 💻 Full-stack developer architecting high-performance systems, leveraging event-driven architectures, message queues, DB sharding, and advanced caching strategies to build scalable platforms.
+* 🧠 Passionate about Data Structures and Algorithms with 900+ solved problems across platforms.
+* 🚀 Previously: SDE & DSA Mentor.
 
 ---
 
@@ -33,11 +33,11 @@
 ---
 
 **🚀 Featured Projects**
-* **[Project Jinn](https://github.com/YOUR_USERNAME/Project-Jinn):** A browser-native development environment integrated with AI functionality and live previews.
-* **[Project Genius](https://github.com/YOUR_USERNAME/Project-Genius):** A multi-modal AI generation platform built with Next.js and Convex.
-* **[Project Zomagram](https://github.com/YOUR_USERNAME/Project-Zomagram):** Full-stack social food platform utilizing React.js, Node.js, and MongoDB.
-* **[Project Veda](https://github.com/YOUR_USERNAME/Project-Veda):** Automated quiz generator from uploaded documents and images.
-* **[Project Resonance](https://github.com/YOUR_USERNAME/Project-Resonance):** Web application designed for audio and voice synthesis.
+* **[Project Jinn](https://github.com/Harshlakhara123/Jinn):** A browser-native development environment integrated with AI functionality and live previews.
+* **[Project Genius](https://github.com/Harshlakhara123/Genius):** A multi-modal AI generation platform built with Next.js and Convex.
+* **[Project Zomagram](https://github.com/Harshlakhara123/zomagram):** Full-stack social food platform utilizing React.js, Node.js, and MongoDB.
+* **[Project Veda](https://github.com/Harshlakhara123/AI-Powered-Quiz-APP):** Automated quiz generator from uploaded documents and images.
+* **[Project Resonance](https://github.com/Harshlakhara123/resonance):** Web application designed for audio and voice synthesis.
 
 ---
 
@@ -50,5 +50,5 @@
 
 <p align="center">
   <!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode handle -->
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/harshlakhara123?theme=dark&font=baloo" alt="LeetCode Stats" />
 </p>
