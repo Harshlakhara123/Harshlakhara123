@@ -13,7 +13,7 @@
 ---
 
 **👨‍💻 About Me**
-* 🎓 4th-Year B.Tech in Computer Science at IIIT Kota.
+* 🎓 B.Tech in Computer Science at IIIT Kota.
 * 💻 Full-stack developer architecting high-performance systems, leveraging event-driven architectures, message queues, DB sharding, and advanced caching strategies to build scalable platforms.
 * 🧠 Passionate about Data Structures and Algorithms with 900+ solved problems across platforms.
 * 🚀 Previously: SDE & DSA Mentor.
