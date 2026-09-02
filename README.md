@@ -49,6 +49,5 @@
 </p>
 
 <p align="center">
-  <!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode handle -->
   <img src="https://leetcard.jacoblin.cool/harshlakhara123?theme=dark&font=baloo" alt="LeetCode Stats" />
 </p>
